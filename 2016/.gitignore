@@ -1,0 +1,12 @@
+# os
+*.DS_Store
+
+# ide
+.vscode/
+
+# input files
+*input.txt
+*test.txt
+
+# node
+node_modules/
